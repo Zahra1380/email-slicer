@@ -1,4 +1,4 @@
-# email-slicer
+# email slicer
 Email Slicer is nothing but just a tool which will take an email id as an input and will perform slicing operations on it to return the username and the domain of the email id.
 
 in this project I try write it graphical at the first I import the libraries that we will use: 1) os.path -> for checking the one page is exist or not 2) tkinter -> for make the grafical place 3) xml.dom.minidom -> for the xml file
